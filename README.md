@@ -3,6 +3,3 @@
 ## neotronix technology
 ### neotronix.technology@gmail.com
 ### eugene.maslennikov@gmail.com
-# A first-level heading
-## A second-level heading
-### A third-level heading
